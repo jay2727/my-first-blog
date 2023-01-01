@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/Users/jaymakwana/Desktop/djangogirls/myvenv/bin
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
